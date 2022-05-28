@@ -2,3 +2,5 @@
 The website shows interactive visualization of automotive Industry according to the comfort of the customer. The website performs data visualization on the automotive industry, important feature analysis of the dataset, and price analysis. With the help of Price Analysis, The Automotive Industry can understand the need of the market and easily manipulate the making of the car to fulfill the need of market needs.
 
 ![Gif](img11.gif)
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/-hbuT9VT0yw))
