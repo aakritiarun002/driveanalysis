@@ -5,6 +5,7 @@ import streamlit as st
 import plotly.express as px
 from PIL import Image
 import pandas as pd
+import numpy as np
 from streamlit_lottie import st_lottie
 import matplotlib.pyplot as plt
 import streamlit.components.v1 as components 
