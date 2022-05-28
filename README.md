@@ -3,4 +3,4 @@ The website shows interactive visualization of automotive Industry according to 
 
 ![Gif](img11.gif)
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/-hbuT9VT0yw))
+![Watch the video]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/-hbuT9VT0yw))
