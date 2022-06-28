@@ -7,8 +7,6 @@ The website shows interactive visualization of automotive Industry according to 
 
 https://user-images.githubusercontent.com/70642412/170842898-b284c473-529b-45bc-b2a5-09b67da1fd78.mov
 
-(<iframe width="560" height="315" src="https://www.youtube.com/embed/YW2gAl58CoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
 
---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YW2gAl58CoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+("https://www.youtube.com/embed/YW2gAl58CoI" )
